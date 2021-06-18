@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://quiz-sobre-frameworks-git-master.sou-gabriel.vercel.app/" target="_blank">
-    <img src="https://github.com/sou-gabriel/quiz-sobre-frameworks/blob/master/github/demo.gif"> 
+    <img src=".github/demo-quiz.gif"> 
   </a>   
 </div>
 
-# 📌 Quiz Interativo
+# ❓ Quiz Interativo
 
-> Trata-se de um quiz sobre frameworks na qual o objetivo é o usuário assimilar <br> cada framework a sua respectiva linguagem.
+> Uma quiz de perguntas relacionadas há algumas das principais tecnologias do mercado.
 
 ---
 
